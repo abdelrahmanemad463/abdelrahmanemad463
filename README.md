@@ -91,9 +91,11 @@ Laravel Backend Developer | PHP Developer | Microsoft SQL Server
 
 ## 📈 GitHub Stats
 
+
+
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=abdelrahmanemad463&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelrahmanemad463&layout=compact&theme=tokyonight"/>
 
 
 </p>
